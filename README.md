@@ -1,2 +1,2 @@
-# CodigodeDesconto
+# CodigodeDescontoPortugol
 Projeto da aula de algoritmo
