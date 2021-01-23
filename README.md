@@ -1,2 +1,2 @@
-# C-digo-de-Verifica-o-desconto-
+# CodigodeDesconto
 Projeto da aula de algoritmo
